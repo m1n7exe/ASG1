@@ -26,7 +26,7 @@ A video background to make the entire home page dynamic. With animated test usin
 * Grotta Azzurra, Capri, Italy
 * Maldives
 
-![Maldives](C:/idaas1/ASG1/readme_pictures)
+![Maldives](https://cdn.moanavoyages.com/img/builder/p2-01-bora-bora-photo-1-c-mark-fitz-622ba88769466332044275.jpg)
 
 ### Our Services
 * Affordable Price
