@@ -5,14 +5,15 @@ Helps to provide travel booking towards countries with beaches. This is what the
 
 ## Motivation:
 As Lewis Carroll said:
-> Actually, the best gift you could have given her was a lifetime of
-> adventures.
 
-If i were to want to go overseas with my girlfriend to a beautiful relaxing definition with beaches and lots of blue colour. 
+> Actually, the best gift you could have 
+> given her was a lifetime of adventures.
+
+If i were to want to go overseas with my girlfriend to a beautiful destination. I would not want to go through the hassle of planning the destination. I would prefer an agency do it for me so I can focus on planning the important things that we will be doing instead. As a result of that pain point, a service that can provide travel packages for the type of vacation that we want would be of great use. Lovers could give each other the adventure that they will have in their beautiful journey, allowing them to make beautiful memories that will stick with them throughout their relationship.
 
 
 ### Home
-A video background to make the entire home page dynamic. With animated test from js to make it visually appealing.
+A video background to make the entire home page dynamic. With animated test using javascript to make it visually appealing.
 
 ### Destinations/Countries
 * Svalbard, Norway
@@ -23,6 +24,9 @@ A video background to make the entire home page dynamic. With animated test from
 * Blue Lagoon, Iceland
 * Antarctica
 * Grotta Azzurra, Capri, Italy
+* Maldives
+
+![Maldives](C:\idaas1\ASG1\readme_pictures)
 
 ### Our Services
 * Affordable Price
@@ -34,10 +38,10 @@ A video background to make the entire home page dynamic. With animated test from
 
 ### For Couples
 * Romantic Packages
-1. Lovers Package
-2. Newly Weds Package
-3. Long Distance Package
-4. Oldies Package
+  1. Lovers Package
+  2. Newly Weds Package
+  3. Long Distance Package
+  4. Oldies Package
 
 ### Food
 * Farkal - Mutton stew (Norway)
@@ -47,4 +51,4 @@ A video background to make the entire home page dynamic. With animated test from
 
 
 
-![]
+
