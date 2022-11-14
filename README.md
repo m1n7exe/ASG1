@@ -26,7 +26,7 @@ A video background to make the entire home page dynamic. With animated test usin
 * Grotta Azzurra, Capri, Italy
 * Maldives
 
-![Maldives](C:\idaas1\ASG1\readme_pictures)
+![Maldives](C:/idaas1/ASG1/readme_pictures)
 
 ### Our Services
 * Affordable Price
