@@ -1,5 +1,5 @@
 @ 
-# Travel Agency Website: min&minnie
+# Travel Agency Website: Talokan
 
 ## Purpose: 
 Helps to provide travel booking towards countries with beaches. This is what the agency is focused on. The agency focuses on honeymoon trips for couples who just want to experience the beautiful countries with their partners and not focus on the logistics of the trip. The website will provide information on travel destinations, travel packages, our services and different travel tips.
@@ -42,7 +42,7 @@ A video background to make the entire home page dynamic. With animated test usin
   1. Lovers Package
   2. Newly Weds Package
   3. Long Distance Package
-  4. Oldies Package
+  4. Oldies Package 
 
 ### how the packages function
 Lovers Package | Newly Weds Package | Long Distance Package | Oldies Package
