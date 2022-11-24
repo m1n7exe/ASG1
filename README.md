@@ -47,7 +47,7 @@ A video background to make the entire home page dynamic. With animated test usin
 ### how the packages function
 Lovers Package | Newly Weds Package | Long Distance Package | Oldies Package
 -------------- | ------------------ | --------------------- | ---------------
-jkldgjlkdsjglk | jkldfgjlkfdsjglkd | fdsjflksglkfdsjglk | jfksdjflkasjflkd
+love | jkldfgjlkfdsjglkd | fdsjflksglkfdsjglk | jfksdjflkasjflkd
 
 ### Food
 * Farkal - Mutton stew (Norway)
