@@ -21,7 +21,7 @@ nav{
     left: 0;
     padding: 20px 8%;
     display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: space-between;
 }
 
@@ -103,4 +103,78 @@ nav ul li a{
     right: 0;
     bottom: 0;
     z-index: -1;
+}
+
+
+/* book form css styling */
+/*.book-form{
+    width: 80%;
+    margin: 1rem auto;
+    margin-top: -5rem;
+    border-radius: 1rem;
+    box-shadow: 0 .5rem 1rem rgba(20, 20, 20, 0.3);
+
+form{
+    display: flex;
+    align-items:flex-end;
+    flex-wrap:wrap;
+}
+.inputBox{
+    flex:1 1 20rem;
+    
+}
+.btn{
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    font-size: 25px;
+    border: 2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 20px;
+    position: relative;
+    z-index: 1;
+    transition: 0.5s;
+}
+
+*/
+
+.about{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #006994;
+    background-image: -webkit-linear-gradient(#006994,#fff);
+}
+.image{
+    height: auto;
+    width: 500px;
+
+}
+
+.about-content{
+    width: 550px;
+}
+
+.image-container{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.about-content h3{
+    color: #fff;
+    font-size: 70px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.about-content span{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 20px;
+
 }
