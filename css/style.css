@@ -85,7 +85,7 @@ nav ul li a{
 
 }
 .content a:hover{
-    color: #000080;
+    color: #008080;
 
 }
 
@@ -297,3 +297,52 @@ form{
 
 }
 */
+
+/* for couples */
+.package{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #222;
+    /*background-image: -webkit-linear-gradient(#000,#006994);*/
+}
+
+
+.heading{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.package span{
+        color: #008080;
+        font-size: 2rem;
+    }
+.package h1{
+        font-size:4rem;
+        color:#fff ;
+
+    }
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    grid-gap: 50px;
+    margin-left: auto;
+}
+
+.grid{
+    background-color: #222;
+    margin-bottom: 16px;
+    padding: 16px;
+    
+}
+.grid-container .content h3{
+    color: #008080;
+}
+
+.grid-container .content p{
+    color: #fff;
+    font-size: 15px;
+}
+
+.grid-container .content a{
+    color: #008080;
+}
