@@ -359,9 +359,16 @@ form{
     background-color: #222;
 }
 
-.travel-heading{
-    color: #fff;
+.travel-heading span{
+    color: #008080;
     font-size: 70px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
+
+.travel-heading h3{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom:20px;
+}
+
