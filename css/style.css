@@ -361,14 +361,14 @@ form{
 
 .travel-heading span{
     color: #008080;
-    font-size: 70px;
+    font-size: 30px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
 
 .travel-heading h1{
     color: #fff;
-    font-size: 30px;
+    font-size: 70px;
     margin-bottom:20px;
 }
 
