@@ -366,16 +366,17 @@ form{
     margin-bottom: 20px;
 }
 
-.travel-heading h1{
+.travel-header h2{
     color: #fff;
     font-size: 70px;
     margin-bottom:20px;
 }
-
+.travel-content{
+    margin-bottom: 20px;
+}
 .travel-header h3 {
     color: #008080;
     font-size: 30px;
-    margin-bottom: 30px;
 }
 
 .travel-header .travel-content p{
