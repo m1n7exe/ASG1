@@ -372,7 +372,7 @@ form{
     margin-bottom:20px;
 }
 
-.travel-header {
+.travel-header h3 {
     color: #008080;
     font-size: 30px;
     margin-bottom: 30px;
@@ -380,6 +380,6 @@ form{
 
 .travel-header .travel-content p{
     color: #fff;
-    font-size: 10px;
+    font-size: 30px;
 }
 
