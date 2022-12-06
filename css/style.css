@@ -325,7 +325,6 @@ form{
     display: grid;
     justify-content: center;
     grid-template-columns: 300px 300px 300px 300px;
-    gri
     grid-gap: 50px;
 }
 
@@ -350,4 +349,19 @@ form{
 
 .grid-container .content a{
     color: #008080;
+}
+
+/* travel tips */
+
+.travel-tips{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #222;
+}
+
+.travel-heading{
+    color: #fff;
+    font-size: 70px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
 }
