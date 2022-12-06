@@ -372,3 +372,18 @@ form{
     margin-bottom:20px;
 }
 
+.travel-header .travel-content{
+    color: #fff;
+}
+
+.travel-header .travel-content h1{
+    color: #008080;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.travel-header .travel-content p{
+    color: #fff;
+    font-size: 15px;
+}
+
