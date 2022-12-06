@@ -374,16 +374,16 @@ form{
 .travel-content{
     margin-bottom: 20px;
 }
-.travel-header h3 {
+.travel-tips .travel-content h3 {
     color: #008080;
     font-size: 30px;
 }
 
-.travel-header .travel-content p{
+.travel-tips .travel-content p{
     color: #fff;
     font-size: 30px;
 }
 
 .travel-content{
-    
+
 }
