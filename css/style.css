@@ -372,11 +372,7 @@ form{
     margin-bottom:20px;
 }
 
-.travel-header .travel-content{
-    color: #fff;
-}
-
-.travel-header .travel-content h1{
+.travel-header {
     color: #008080;
     font-size: 50px;
     margin-bottom: 30px;
