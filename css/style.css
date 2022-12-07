@@ -373,12 +373,14 @@ form{
     font-size: 30px;
     text-transform: capitalize;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .travel-heading h1{
     color: #fff;
     font-size: 70px;
     margin-bottom:20px;
+    text-align: center;
 }
 .travel-content{
     margin-bottom: 20px;
