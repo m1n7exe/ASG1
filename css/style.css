@@ -448,6 +448,11 @@ form{
 .wrapper .form .input_field .input{
     width: 100%;
     outline: none;
+    border: 1px solid #d5dbd9;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-radius: 3px;
+    transition: all 0.3s ease;
 }
 
 .wrapper .form{
