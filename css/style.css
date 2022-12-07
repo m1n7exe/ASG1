@@ -415,10 +415,11 @@ form{
     background-color: #008080;
     margin: 20px;
     padding: 30px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.125);
 
 }
 
-.wrapper title{
+.wrapper .title{
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 25px;
@@ -429,7 +430,32 @@ form{
 
 }
 
+.wrapper .form .input_field{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.wrapper .form .input_field label{
+    width: 200px;
+    color: #75757557;
+    margin-right:10px;
+    font-size: 14px;
+}
+
+.wrapper .form .input_field .input{
+    width: 100%;
+    outline: none;
+}
+
 .wrapper .form{
     width: 100%;
+}
+
+body{
+    background: #222 ;
+    padding: 0 10px;
 }
 
