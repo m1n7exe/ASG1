@@ -443,10 +443,11 @@ form{
 
 .wrapper .form .input_field label{
     width: 200px;
-    color: #75757557;
+    color: #fff;
     margin-right:10px;
     font-size: 14px;
 }
+
 
 .wrapper .form .input_field .input{
     width: 100%;
