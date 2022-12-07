@@ -244,6 +244,8 @@ form{
     background-color: #222;
     margin-bottom: 16px;
     padding: 16px;
+    justify-content: center;
+    text-align: center;
     
 }
 .box-container .content h3{
