@@ -333,7 +333,7 @@ form{
     display: grid;
     justify-content: center;
     grid-template-columns: 300px 300px 300px 300px;
-    grid-gap: 17px;
+    grid-gap: 16px;
 }
 
 .grid{
