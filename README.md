@@ -44,11 +44,6 @@ A video background to make the entire home page dynamic. With animated test usin
   3. Long Distance Package
   4. Oldies Package 
 
-### how the packages function
-Lovers Package | Newly Weds Package | Long Distance Package | Oldies Package
--------------- | ------------------ | --------------------- | ---------------
-somebody ghelp me    | jkldfgjlkfdsjglkd | fdsjflksglkfdsjglk | jfksdjflkasjflkd
-
 ### Food
 * Farkal - Mutton stew (Norway)
 * Poisson cru 
